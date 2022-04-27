@@ -1,0 +1,8 @@
+name: phys330
+dependencies:
+  - python>=3.7
+  - numpy
+  - matplotlib
+  - jupyter
+  - ipykernel
+  - scipy
